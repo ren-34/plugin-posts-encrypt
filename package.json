@@ -1,6 +1,6 @@
 {
   "name": "vuepress-plugin-posts-encrypt-ren",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "main": "lib/index.js",
   "repository": "https://github.com/ren-34/plugin-posts-encrypt-ren",
   "scripts": {
